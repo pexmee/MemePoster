@@ -1,0 +1,12 @@
+{
+    "instagram": {
+        "hours_between_posts" : 2,
+        "max_meme_amount" : 8,
+        "post_during_day" : true
+    },
+    "x": {
+        "hours_between_posts": 2,
+        "max_meme_amount" : 12,
+        "post_during_day" : false
+    }
+}
